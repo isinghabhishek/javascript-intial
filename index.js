@@ -32,9 +32,9 @@ var str2 = 'This is also a string';
 
 // Objects
 var marks = {
-    ravi: 34,
-    shubham: 78,
-    harry: 99.977
+    abhi: 34,
+    prithivi: 78,
+    Abhishek: 99.977
 }
 // console.log(marks);
 
